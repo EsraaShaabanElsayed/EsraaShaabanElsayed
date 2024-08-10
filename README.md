@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**EsraaShaabanElsayed/EsraaShaabanElsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm Esraa Shaaban 👋
 
 ## About Me
@@ -14,7 +9,9 @@
 - 😄 Pronouns: She/Her
 
 ## My GitHub Stats
-![image](https://github.com/user-attachments/assets/b7fcea88-6a34-4774-abc3-24db7ce416c5)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=EsraaShaabanElsayed&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaShaabanElsayed&layout=compact)
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/esraa-shaaban-007512206/)
@@ -23,6 +20,5 @@
 - [Jenkins Pipeline for Spring PetClinic](https://github.com/EsraaShaabanElsayed/spring-petclinic.git)
 - [Jenkins Installation with Ansible](https://github.com/EsraaShaabanElsayed/install-jenkins-with-ansible.git)
 - [Faculty Management System](https://github.com/EsraaShaabanElsayed/faculty)
+-  [Movies Website Frontend](https://github.com/EsraaShaabanElsayed/movies-website-frontend.git)
 
-
--->
