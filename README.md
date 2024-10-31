@@ -17,9 +17,3 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/esraa-shaaban-007512206/)
 
-## My DevOps Projects
-- [Jenkins Pipeline for Spring PetClinic](https://github.com/EsraaShaabanElsayed/spring-petclinic.git)
-- [Jenkins Installation with Ansible](https://github.com/EsraaShaabanElsayed/install-jenkins-with-ansible.git)
-- [Faculty Management System](https://github.com/EsraaShaabanElsayed/faculty)
--  [Movies Website Frontend](https://github.com/EsraaShaabanElsayed/movies-website-frontend.git)
-
